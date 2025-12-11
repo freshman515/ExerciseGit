@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseGit", "ExerciseGit\ExerciseGit.csproj", "{566F673F-5101-4BFD-A726-FAE70F14BEE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{AE217A65-7FFF-466D-906B-71E871881A5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{566F673F-5101-4BFD-A726-FAE70F14BEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566F673F-5101-4BFD-A726-FAE70F14BEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566F673F-5101-4BFD-A726-FAE70F14BEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE217A65-7FFF-466D-906B-71E871881A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE217A65-7FFF-466D-906B-71E871881A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE217A65-7FFF-466D-906B-71E871881A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE217A65-7FFF-466D-906B-71E871881A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
